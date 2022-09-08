@@ -1,0 +1,5 @@
+const Result = (props) => {
+    return (
+        
+    )
+}

@@ -1,0 +1,13 @@
+.item-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+}
+
+.button-item-container {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,82 @@
+body{
+    padding: 0 15%;
+    background-image: url(https://media.discordapp.net/attachments/1009346724109762580/1009433350592811008/background.jpg?width=1029&height=676);
+}
+
+#balt {
+    color: goldenrod;
+    text-shadow: 1px 1px 2px gold;
+}
+main-container {
+    background-color: white;
+}
+
+.top-container {
+    display: flex;
+}
+
+.img-container {
+    display: flex;
+    flex-direction: column ; /* dispose verticalement les éléments */
+    align-items: center; /* décide de comment ça se place horizontalement */
+    justify-content: center; /* décide de comment ça se place verticalement */
+}
+
+.img-container, #romain {
+    flex: 1;
+    justify-content: flex-end;
+}
+
+#sub-title {
+    font-weight: bold;
+}
+
+#romain {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+#ricardo {
+    border: 1px solid goldenrod
+}
+
+h2 {
+    margin: 0 ;
+    border-bottom: 1px solid goldenrod;
+}
+
+#patrick {
+    border: 1px solid goldenrod;
+}
+
+h3 {
+    margin: 0;
+    border-bottom: 1px solid goldenrod;
+}
+
+#william {
+    border: 1px solid goldenrod;
+}
+
+.title {
+    display: flex-direction table-row;
+    text-align: center;
+    background-color: rgb(255, 243, 177);
+}
+
+dt {
+    color:rgb(252, 207, 141);
+    font-style: italic;
+}
+
+dd {
+    margin-bottom: 2%;
+
+}
+
+
+li{
+    list-style: circle
+} 

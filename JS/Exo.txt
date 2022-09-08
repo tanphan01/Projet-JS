@@ -1,0 +1,39 @@
+- Faire un programme qui :
+	- Demande à l'utilisateur d'entrer une année
+	- Affiche dans une alerte si cette année est bissextile ou pas
+	- Une année est bissextile si elle est divisible par 4 mais pas pour 100. Ou bien, si elle est divisible par 400
+
+- Faire un programme de calculatrice qui :
+	- Demande à l'utilisateur un premier nombre
+	- Demande à l'utilisateur un opérateur
+	- Demande à l'utilisateur un deuxième nombre
+	- Calcule le résultat et l'affiche dans une alerte
+
+- Faire un programme qui demande à l'utilisateur d'entrer une chaine de caractère
+et qui écrit dans une alert la chaine de caractère inversée
+
+- Faites un algorithme qui cherche le plus petit entier dans un tableau de nombre
+
+- Faire un programme qui
+	- Demande à l'utilisateur le nombre de personne qui participe à une tombola
+	- D'encoder, pour chaque personne, son nom
+	- De piocher au hasard un nom dans cette liste de personne et de l'afficher dans une alerte (Math.floor(Math.random()*NbrMax+1))
+
+- Faites un programme qui demande à l'utilisateur d'entrez le nom d'un invité et qui
+affiche la position de cette invité dans la liste des invités (valeur hardcodé)
+dans une alerte.
+
+- Simuler le fonctionnement d'un magasin
+	- On demande à l'utilisateur le nombre de pomme qu'il veut acheter (via un prompt)
+	- On demande à l'utilisateur le nombre de poire qu'il veut acheter
+	- On demande à l'utilisateur le nombre de cerise qu'il veut acheter
+	- On calcule le total et on l'affiche dans la page Web
+		- Si l'utilisateur a au moins acheté chaque élément une fois, il reçoit
+		une ristourne de 10%
+
+- Simuler le jeu du chapeau :
+	- L'utilisateur encore une liste d'invité
+	- Ensuite, le programme pioche des couples de donneur/receveur pour les cadeaux de noël
+	- Chacun reçoit un seul cadeau, et chacun donne un seul cadeau
+
+
